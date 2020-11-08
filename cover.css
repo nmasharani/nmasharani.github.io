@@ -114,6 +114,25 @@ body {
   font-family: 'Ovo', serif;
 }
 
+.image-cropper {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    float:left;
+    margin-right: 24px;
+}
+.profile-pic {
+  display: inline;
+  margin: auto;
+  height: auto;
+  width: auto;
+}
+
+.inline-text {
+   display: inline-block;
+}
 
 /*
  * Footer
