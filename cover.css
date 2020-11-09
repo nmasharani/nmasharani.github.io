@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url("nishamasharani_background.jpg");
+  background-image: url("index_background.jpg");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
@@ -50,7 +50,7 @@ body {
 }
 
 .cover-container {
-  max-width: 48em;
+  max-width: 50em;
 }
 
 
@@ -132,6 +132,10 @@ body {
 
 .inline-text {
    display: inline-block;
+}
+
+.text-box {
+  margin-bottom: 24px;
 }
 
 /*
